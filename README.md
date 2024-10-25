@@ -1,7 +1,5 @@
 # conference_badge
 
-## Attendee
-
 ### Badge
 
 ### Schedule
@@ -20,6 +18,7 @@
 
 ### Map Creation
 
+### Sponsors
 
 
 
