@@ -1,5 +1,7 @@
 # conference_badge
 
+This Flutter project is aimed to be used at conferences.
+
 ### Badge
 
 ### Schedule
